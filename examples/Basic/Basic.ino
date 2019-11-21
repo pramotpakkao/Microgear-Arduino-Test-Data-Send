@@ -1,12 +1,12 @@
 #include "MicroGear.h"
 #include "WiFi.h"
 
-const char* ssid     = "SSID";
-const char* password = "PASSWORD";
+const char* ssid     = "ttec_qr_ap";
+const char* password = "ndrs_2010";
 
-#define APPID   "APPID"
-#define KEY     "KEY"
-#define SECRET  "SECRET"
+#define APPID   "DataTestSensor"
+#define KEY     "lZmeboInFFETRlF"
+#define SECRET  "OvpLZ8k3EUFGVAHIrHdsack7b"
 #define ALIAS   "esp32"
 
 WiFiClient client;
